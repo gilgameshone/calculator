@@ -1,4 +1,0 @@
-const button = document.querySelector()
-
-const yearlyRent = montlyRent * 12;
-console.log(yearlyRent);
